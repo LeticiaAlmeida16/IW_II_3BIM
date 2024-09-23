@@ -1,4 +1,4 @@
-* {
+* {             /*  adiciona reset em TODO o site */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -29,12 +29,4 @@ body::-webkit-scrollbar-thumb {
     background-color: #b71c1c;  /* cor do scroll (thumb) da barra de rolagem */
     border-radius: 20px;          /* arredondar o scroll (thumb) */
     border: 3px solid #222;     /* criar um espaco em volta do scroll */
-}
-
-
-.cards{
-    display: flex;
-    gap: 5px;
-    flex-wrap: wrap;
-    justify-content: center;
 }
