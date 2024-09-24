@@ -1,2 +1,4 @@
-# IW_II_3BIM
-aula de iw do 3º bimestre
+# REACT
+Link do Projeto final denominado LeletFlix
+
+https://react-leticiaalmeida16s-projects.vercel.app/
