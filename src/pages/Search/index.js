@@ -4,8 +4,8 @@ import Footer from "../../components/Footer";
 import Container from "../../components/Container";
 import SearchVideoList from "../../components/SearchVideoList";
 import videos from "../../json/videos.json";
-/*import VideoList from "../../components/VideoList";*/
-// import ScrollToTopButton from "../../components/ScrollToTopButton";
+import VideoList from "../../components/VideoList";
+import ScrollToTopButton from "../../components/ScrollToTopButton";
 
 function Search() {
     return (

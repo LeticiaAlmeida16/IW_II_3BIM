@@ -15,7 +15,7 @@ function SearchVideoList({ videos }) {
     
     const [loading, setLoading] = useState(true)
     useEffect(()=>{
-        setTimeout(() => setLoading(false), 600)
+        setTimeout(() => setLoading(false), 650)
     }, [])
 
     return (

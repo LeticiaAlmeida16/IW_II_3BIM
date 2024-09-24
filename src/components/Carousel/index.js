@@ -1,8 +1,6 @@
 import Slider from "react-slick/lib/slider";
 import "./carousel.css";
 
-
-
 function Carousel ({children}){
     
     const settings = {
