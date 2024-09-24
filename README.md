@@ -1,4 +1,4 @@
 # REACT
-Link do Projeto final denominado LeletFlix
+Link do Projeto:  **LELETFLIX**
 
 https://react-leticiaalmeida16s-projects.vercel.app/
