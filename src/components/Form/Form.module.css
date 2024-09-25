@@ -44,13 +44,14 @@
     border-radius: 10px;
     font-weight: 600;
     font-size: 1.125rem;
-    padding: 24px 28px;
+    padding: 24px 24px;
     border: none;
     cursor: pointer;
     color: #fff;
     margin-top: 0.5rem;
     transition: background 300ms ease, padding 0.8s linear;
     transition-delay: 100ms;
+    width: auto;
 }
 
 .container button:hover {

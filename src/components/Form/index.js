@@ -80,6 +80,7 @@ function Form (){
                             );
                         })}
                     </select>
+                    
                 </div>
                 <div>
                     <button>Cadastrar</button>

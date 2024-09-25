@@ -3,10 +3,10 @@ import styles from "./Category.module.css";
 
 export const categories = [
     "Desenhos animados",
-    "Ação",
+    "Super Herói",
     "Terror",
-    "Climatologia, Meteorologia, Vegetação",
-    "Geologia e Hidrografia"
+    "Romance",
+    "Aventura"
 ]
   
 export function filterCategory(id){

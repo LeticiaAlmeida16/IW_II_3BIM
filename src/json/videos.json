@@ -1,241 +1,357 @@
 [
-    {
-        "id": "DK3d0Pcc5MI",
-        "title": "Carros",
-        "url": "https://www.youtube.com/watch?v=DK3d0Pcc5MI",
-        "cover": "https://img.youtube.com/vi/DK3d0Pcc5MI/maxresdefault.jpg",
-        "category": "Desenhos animados"
-    },
-    {
-        "id": "LSpeM7G4zfY",
-        "title": "Divertidamente",
-        "url": "https://www.youtube.com/watch?v=LSpeM7G4zfY",
-        "cover": "https://img.youtube.com/vi/LSpeM7G4zfY/maxresdefault.jpg",
-        "category": "Desenhos animados"
-    },
-      {
-        "id": "LSpeM7G4zfY",
-        "title": "Divertidamente",
-        "url": "https://www.youtube.com/watch?v=LSpeM7G4zfY",
-        "cover": "https://img.youtube.com/vi/LSpeM7G4zfY/maxresdefault.jpg",
-        "category": "Desenhos animados"
-    },
-    {
-        "id": "MXCqOhoO8mI",
-        "title": "Enrolados",
-        "url": "https://www.youtube.com/watch?v=MXCqOhoO8mI",
-        "cover": "https://img.youtube.com/vi/MXCqOhoO8mI/maxresdefault.jpg",
-        "category": "Desenhos animados"
-    },
-    {
-        "id": "PE3ruZElMUY",
-        "title": "Procurando Dory",
-        "url": "https://www.youtube.com/watch?v=PE3ruZElMUY",
-        "cover": "https://img.youtube.com/vi/PE3ruZElMUY/maxresdefault.jpg",
-        "category": "Desenhos animados"
-    },
-    {
-      "id": "IwS8puJXQao",
-      "title": "Os incríveis",
-      "cover": "https://img.youtube.com/vi/IwS8puJXQao/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=IwS8puJXQao",
-      "category": "Desenhos animados"
-    },
-    {
-      "id": "my7Q51ZF6IE",
-      "title": "Detona Ralph",
-      "cover": "https://img.youtube.com/vi/my7Q51ZF6IE/maxresdefault.jpg",
-      "url": "https://www.youtube.com/watch?v=my7Q51ZF6IE",
-      "category": "Desenhos animados"
-    },
-    {
-        "id": "4bEMXlQXiS0",
-        "title": "Velozes e Furiosos 1",
-        "url": "https://www.youtube.com/watch?v=4bEMXlQXiS0",
-        "cover": "https://img.youtube.com/vi/4bEMXlQXiS0/maxresdefault.jpg",
-        "category": "Ação"
-    },
-    {
-        "id": "ONs4_PtakGc",
-        "title": "Como fazer bússola",
-        "url": "https://www.youtube.com/watch?v=ONs4_PtakGc",
-        "cover": "https://img.youtube.com/vi/ONs4_PtakGc/maxresdefault.jpg",
-        "category": "Ação"
-    },
-    {
-        "id": "HVQWZkd8cDk",
-        "title": "Como fazer Jogo da Memória de Orientação em Geografia",
-        "url": "https://www.youtube.com/watch?v=HVQWZkd8cDk",
-        "cover": "https://img.youtube.com/vi/HVQWZkd8cDk/maxresdefault.jpg",
-        "category": "Ação"
-    },
-    {
-      "id": "a9--AI3ZGaw",
-      "title": "Produzir maquete em EVA",
-      "url": "https://www.youtube.com/watch?v=a9--AI3ZGaw",
-      "cover": "https://img.youtube.com/vi/a9--AI3ZGaw/maxresdefault.jpg",
-      "category": "Ação"
+  {
+    "id": "DK3d0Pcc5MI",
+    "title": "Carros",
+    "url": "https://www.youtube.com/watch?v=DK3d0Pcc5MI",
+    "cover": "https://img.youtube.com/vi/DK3d0Pcc5MI/maxresdefault.jpg",
+    "category": "Desenhos animados"
   },
-    {
-        "id": "e4tEwEZYELc",
-        "title": "Como fazer Jogo da Memória impresso",
-        "url": "https://www.youtube.com/watch?v=e4tEwEZYELc",
-        "cover": "https://img.youtube.com/vi/e4tEwEZYELc/maxresdefault.jpg",
-        "category": "Ação"
-    },
-    {
-      "id": "k7M84G5CSuQ",
-      "title": "Extra 01 - Como usar o Google Earth",
-      "url": "https://www.youtube.com/watch?v=k7M84G5CSuQ",
-      "cover": "https://img.youtube.com/vi/k7M84G5CSuQ/maxresdefault.jpg",
-      "category": "Ação"
-    },
-    {
-      "id": "hujU0dw6Erk",
-      "title": "Extra 02 - App Merge Explorer",
-      "url": "https://www.youtube.com/watch?v=hujU0dw6Erk",
-      "cover": "https://img.youtube.com/vi/hujU0dw6Erk/maxresdefault.jpg",
-      "category": "Ação"
-    },
-    {
-      "id": "KvSlvtPnZTo",
-      "title": "Como fazer Papel Machê para fazer maquetes e outros fins",
-      "url": "https://www.youtube.com/watch?v=KvSlvtPnZTo",
-      "cover": "https://img.youtube.com/vi/KvSlvtPnZTo/maxresdefault.jpg",
-      "category": "Ação"
-    },
-    {
-      "id": "NnDGWyfP7q4",
-      "title": "Como fazer Maquetes do Relevo e Hidrografia",
-      "url": "https://www.youtube.com/watch?v=NnDGWyfP7q4",
-      "cover": "https://img.youtube.com/vi/NnDGWyfP7q4/maxresdefault.jpg",
-      "category": "Ação"
-    },
-    {
-      "id": "a1w9x5U88jU",
-      "title": "Como pintar Maquetes do Relevo e Hidrografia",
-      "url": "https://www.youtube.com/watch?v=a1w9x5U88jU",
-      "cover": "https://img.youtube.com/vi/a1w9x5U88jU/maxresdefault.jpg",
-      "category": "Ação"
-    },
-    {
-      "id": "l3LQgORbhu4",
-      "title": "A Terra no Sistema Solar",
-      "url": "https://www.youtube.com/watch?v=l3LQgORbhu4",
-      "cover": "https://img.youtube.com/vi/l3LQgORbhu4/maxresdefault.jpg",
-      "category": "Terror"
-    },
-    {
-      "id": "UllUiLEXB_g",
-      "title": "A Terra em movimento Rotação e Translação",
-      "url": "https://www.youtube.com/watch?v=UllUiLEXB_g",
-      "cover": "https://img.youtube.com/vi/UllUiLEXB_g/maxresdefault.jpg",
-      "category": "Terror"
-    },
-    {
-      "id": "UllUiLEXB_g",
-      "title": "A Terra em movimento Rotação e Translação",
-      "url": "https://www.youtube.com/watch?v=UllUiLEXB_g",
-      "cover": "https://img.youtube.com/vi/UllUiLEXB_g/maxresdefault.jpg",
-      "category": "Terror"
-    },
-    {
-      "id": "UllUiLEXB_g",
-      "title": "A Terra em movimento Rotação e Translação",
-      "url": "https://www.youtube.com/watch?v=UllUiLEXB_g",
-      "cover": "https://img.youtube.com/vi/UllUiLEXB_g/maxresdefault.jpg",
-      "category": "Terror"
-    },
-    {
-      "id": "UllUiLEXB_g",
-      "title": "A Terra em movimento Rotação e Translação",
-      "url": "https://www.youtube.com/watch?v=UllUiLEXB_g",
-      "cover": "https://img.youtube.com/vi/UllUiLEXB_g/maxresdefault.jpg",
-      "category": "Terror"
-    },
-    {
-      "id": "1lZDLyMKwwE",
-      "title": "A circulação geral da atmosfera, o tempo e o clima",
-      "url": "https://www.youtube.com/watch?v=1lZDLyMKwwE",
-      "cover": "https://img.youtube.com/vi/1lZDLyMKwwE/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "V-v3wTK_KpI",
-      "title": "As intervenções humanas na dinâmica climáticas",
-      "url": "https://www.youtube.com/watch?v=V-v3wTK_KpI",
-      "cover": "https://img.youtube.com/vi/V-v3wTK_KpI/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "11NJB81im1Q",
-      "title": "Ciclones, Furacões, Tufões e Tornados",
-      "url": "https://www.youtube.com/watch?v=11NJB81im1Q",
-      "cover": "https://img.youtube.com/vi/11NJB81im1Q/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "bhQsWpGSLeQ",
-      "title": "Os climas e a vegetação natural",
-      "url": "https://www.youtube.com/watch?v=bhQsWpGSLeQ",
-      "cover": "https://img.youtube.com/vi/bhQsWpGSLeQ/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "oYZZybbhJII",
-      "title": "Os climas do mundo e do Brasil",
-      "url": "https://www.youtube.com/watch?v=oYZZybbhJII",
-      "cover": "https://img.youtube.com/vi/oYZZybbhJII/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "tnFEqmtoNY8",
-      "title": "Terra: Grandes paisagens vegetais naturais",
-      "url": "https://www.youtube.com/watch?v=tnFEqmtoNY8",
-      "cover": "https://img.youtube.com/vi/tnFEqmtoNY8/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "of5e0QO6BtY",
-      "title": "GEOGRAFIA Chuvas na Bahia em dezembro de 2021 e suas causas",
-      "url": "https://www.youtube.com/watch?v=of5e0QO6BtY",
-      "cover": "https://img.youtube.com/vi/of5e0QO6BtY/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "PY4VyxfefqY",
-      "title": "GEOGRAFIA Chuvas no litoral norte de São Paulo 2023",
-      "url": "https://www.youtube.com/watch?v=PY4VyxfefqY",
-      "cover": "https://img.youtube.com/vi/PY4VyxfefqY/maxresdefault.jpg",
-      "category": "Climatologia, Meteorologia, Vegetação"
-    },
-    {
-      "id": "cp_xDdMT6eU",
-      "title": "Litosfera e Relevo Continental",
-      "url": "https://www.youtube.com/watch?v=cp_xDdMT6eU",
-      "cover": "https://img.youtube.com/vi/cp_xDdMT6eU/maxresdefault.jpg",
-      "category": "Geologia e Hidrografia"
-    },
-    {
-      "id": "3XPAx3aQ760",
-      "title": "Relevo Continental e Agentes Externos",
-      "url": "https://www.youtube.com/watch?v=3XPAx3aQ760",
-      "cover": "https://img.youtube.com/vi/3XPAx3aQ760/maxresdefault.jpg",
-      "category": "Geologia e Hidrografia"
-    },
-    {
-      "id": "QWBDmGd9t4s",
-      "title": "A Hidrosfera e a distribuição das águas",
-      "url": "https://www.youtube.com/watch?v=QWBDmGd9t4s",
-      "cover": "https://img.youtube.com/vi/QWBDmGd9t4s/maxresdefault.jpg",
-      "category": "Geologia e Hidrografia"
-    },
-    {
-      "id": "4ADuk1kY6Vw",
-      "title": "GEOGRAFIA Terremoto na Turquia e na Síria 2023",
-      "url": "https://www.youtube.com/watch?v=4ADuk1kY6Vw",
-      "cover": "https://img.youtube.com/vi/4ADuk1kY6Vw/maxresdefault.jpg",
-      "category": "Geologia e Hidrografia"
-    }
+  {
+    "id": "LSpeM7G4zfY",
+    "title": "Divertidamente",
+    "url": "https://www.youtube.com/watch?v=LSpeM7G4zfY",
+    "cover": "https://img.youtube.com/vi/LSpeM7G4zfY/maxresdefault.jpg",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "nbhIgASOKao",
+    "title": "Encanto",
+    "url": "https://www.youtube.com/watch?v=nbhIgASOKao",
+    "cover": "https://img.youtube.com/vi/nbhIgASOKao/maxresdefault.jpg",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "MXCqOhoO8mI",
+    "title": "Enrolados",
+    "url": "https://www.youtube.com/watch?v=MXCqOhoO8mI",
+    "cover": "https://img.youtube.com/vi/MXCqOhoO8mI/maxresdefault.jpg",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "WvRmm6OPzFE",
+    "title": "Frozen",
+    "cover": "https://img.youtube.com/vi/WvRmm6OPzFE/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=WvRmm6OPzFE",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "PE3ruZElMUY",
+    "title": "Procurando Dory",
+    "url": "https://www.youtube.com/watch?v=PE3ruZElMUY",
+    "cover": "https://img.youtube.com/vi/PE3ruZElMUY/maxresdefault.jpg",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "IwS8puJXQao",
+    "title": "Os incríveis",
+    "cover": "https://img.youtube.com/vi/IwS8puJXQao/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=IwS8puJXQao",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "my7Q51ZF6IE",
+    "title": "Detona Ralph",
+    "cover": "https://img.youtube.com/vi/my7Q51ZF6IE/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=my7Q51ZF6IE",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "8Ik0iKJbK1A",
+    "title": "Luca",
+    "cover": "https://img.youtube.com/vi/8Ik0iKJbK1A/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=8Ik0iKJbK1A",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "LDXYRzerjzU",
+    "title": "Toy Story",
+    "cover": "https://img.youtube.com/vi/LDXYRzerjzU/maxresdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=LDXYRzerjzU",
+    "category": "Desenhos animados"
+  },
+  {
+    "id": "-ezfi6FQ8Ds",
+    "title": "Venom",
+    "url": "https://www.youtube.com/watch?v=-ezfi6FQ8Ds",
+    "cover": "https://img.youtube.com/vi/-ezfi6FQ8Ds/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "aKkud2sqd1o",
+    "title": "Homem de ferro",
+    "url": "https://www.youtube.com/watch?v=aKkud2sqd1o",
+    "cover": "https://img.youtube.com/vi/aKkud2sqd1o/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "Rt_UqUm38BI",
+    "title": "Doutor Estranho",
+    "url": "https://www.youtube.com/watch?v=Rt_UqUm38BI",
+    "cover": "https://img.youtube.com/vi/Rt_UqUm38BI/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "Nt9L1jCKGnE",
+    "title": "Homem-aranha",
+    "url": "https://www.youtube.com/watch?v=Nt9L1jCKGnE",
+    "cover": "https://img.youtube.com/vi/Nt9L1jCKGnE/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "6j2IJlC6gic",
+    "title": "Capitão América",
+    "url": "https://www.youtube.com/watch?v=6j2IJlC6gic",
+    "cover": "https://img.youtube.com/vi/6j2IJlC6gic/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "4A2QyE3KdQ8",
+    "title": "The Flash",
+    "url": "https://www.youtube.com/watch?v=4A2QyE3KdQ8",
+    "cover": "https://img.youtube.com/vi/4A2QyE3KdQ8/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "lGO6FcnZ0ek",
+    "title": "Vingadores",
+    "url": "https://www.youtube.com/watch?v=lGO6FcnZ0ek",
+    "cover": "https://img.youtube.com/vi/lGO6FcnZ0ek/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "S55qvOKW5T0",
+    "title": "Morbius",
+    "url": "https://www.youtube.com/watch?v=S55qvOKW5T0",
+    "cover": "https://img.youtube.com/vi/S55qvOKW5T0/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "W2XAyNo3B7g",
+    "title": "X-man",
+    "url": "https://www.youtube.com/watch?v=W2XAyNo3B7g",
+    "cover": "https://img.youtube.com/vi/W2XAyNo3B7g/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+  {
+    "id": "dwzJ-oi7BbI",
+    "title": "Viúva Negra",
+    "url": "https://www.youtube.com/watch?v=dwzJ-oi7BbI",
+    "cover": "https://img.youtube.com/vi/dwzJ-oi7BbI/maxresdefault.jpg",
+    "category": "Super Herói"
+  },
+
+  {
+    "id": "l3LQgORbhu4",
+    "title": "Invocação do mal",
+    "url": "https://www.youtube.com/watch?v=l3LQgORbhu4",
+    "cover": "https://img.youtube.com/vi/l3LQgORbhu4/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "dD264ZjfKlk",
+    "title": "It -  a coisa",
+    "url": "https://www.youtube.com/watch?v=dD264ZjfKlk",
+    "cover": "https://img.youtube.com/vi/dD264ZjfKlk/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "mDGV5UucTu8",
+    "title": "Corra!",
+    "url": "https://www.youtube.com/watch?v=mDGV5UucTu8",
+    "cover": "https://img.youtube.com/vi/mDGV5UucTu8/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "BU2eYAO31Cc",
+    "title": "O exorcista",
+    "url": "https://www.youtube.com/watch?v=BU2eYAO31Cc",
+    "cover": "https://img.youtube.com/vi/BU2eYAO31Cc/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "BlAsN0G8_7o",
+    "title": "Annabelle",
+    "url": "https://www.youtube.com/watch?v=BlAsN0G8_7o",
+    "cover": "https://img.youtube.com/vi/BlAsN0G8_7o/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "dCAbPQnFAU4",
+    "title": "O telefone preto",
+    "url": "https://www.youtube.com/watch?v=dCAbPQnFAU4",
+    "cover": "https://img.youtube.com/vi/dCAbPQnFAU4/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "Ui13PlmyZhQ",
+    "title": "Hereditário",
+    "url": "https://www.youtube.com/watch?v=Ui13PlmyZhQ",
+    "cover": "https://img.youtube.com/vi/Ui13PlmyZhQ/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "e8-GtGmlu18",
+    "title": "Sobrenatural",
+    "url": "https://www.youtube.com/watch?v=e8-GtGmlu18",
+    "cover": "https://img.youtube.com/vi/e8-GtGmlu18/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "vfrYa_moYas",
+    "title": "1922",
+    "url": "https://www.youtube.com/watch?v=vfrYa_moYas",
+    "cover": "https://img.youtube.com/vi/vfrYa_moYas/maxresdefault.jpg",
+    "category": "Terror"
+  },
+  {
+    "id": "Bzhaf5aRzCs",
+    "title": "Alice no País das Trevas",
+    "url": "https://www.youtube.com/watch?v=Bzhaf5aRzCs",
+    "cover": "https://img.youtube.com/vi/Bzhaf5aRzCs/maxresdefault.jpg",
+    "category": "Terror"
+  },
+
+
+  {
+    "id": "3IDeifYOCvM",
+    "title": "Como perder um homem em 10 dias",
+    "url": "https://www.youtube.com/watch?v=3IDeifYOCvM",
+    "cover": "https://img.youtube.com/vi/3IDeifYOCvM/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "x4D3WHlquus",
+    "title": "É assim que acaba",
+    "url": "https://www.youtube.com/watch?v=x4D3WHlquus",
+    "cover": "https://img.youtube.com/vi/x4D3WHlquus/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "NrwlZ6lNVPo",
+    "title": "Todos menos você",
+    "url": "https://www.youtube.com/watch?v=NrwlZ6lNVPo",
+    "cover": "https://img.youtube.com/vi/NrwlZ6lNVPo/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "2yyzb9RDUgs",
+    "title": "Continência ao Amor",
+    "url": "https://www.youtube.com/watch?v=2yyzb9RDUgs",
+    "cover": "https://img.youtube.com/vi/2yyzb9RDUgs/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "DyfWPxB1pZM",
+    "title": "Diário de uma paixão",
+    "url": "https://www.youtube.com/watch?v=DyfWPxB1pZM",
+    "cover": "https://img.youtube.com/vi/DyfWPxB1pZM/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "PnqUs3xiAVI",
+    "title": "Como eu era antes de você",
+    "url": "https://www.youtube.com/watch?v=PnqUs3xiAVI",
+    "cover": "https://img.youtube.com/vi/PnqUs3xiAVI/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "8OkqLOe_mZI",
+    "title": "Depois do universo",
+    "url": "https://www.youtube.com/watch?v=8OkqLOe_mZI",
+    "cover": "https://img.youtube.com/vi/8OkqLOe_mZI/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "-0gX9g4Lxm8",
+    "title": "Questão de tempo",
+    "url": "https://www.youtube.com/watch?v=-0gX9g4Lxm8",
+    "cover": "https://img.youtube.com/vi/-0gX9g4Lxm8/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "5cJ7MT1RTqs",
+    "title": "A cinco passos de você",
+    "url": "https://www.youtube.com/watch?v=5cJ7MT1RTqs",
+    "cover": "https://img.youtube.com/vi/5cJ7MT1RTqs/maxresdefault.jpg",
+    "category": "Romance"
+  },
+  {
+    "id": "J6VSS3TB--Q",
+    "title": "Antes do Adeus",
+    "url": "https://www.youtube.com/watch?v=J6VSS3TB--Q",
+    "cover": "https://img.youtube.com/vi/J6VSS3TB--Q/maxresdefault.jpg",
+    "category": "Romance"
+  },
+
+  {
+    "id": "ZNTS3ArgyHo",
+    "title": "12 Horas Para o Fim do Mundo",
+    "url": "https://www.youtube.com/watch?v=V-v3wTK_KpI",
+    "cover": "https://img.youtube.com/vi/V-v3wTK_KpI/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "eHp3MbsCbMg",
+    "title": "Uncharted",
+    "url": "https://www.youtube.com/watch?v=eHp3MbsCbMg",
+    "cover": "https://img.youtube.com/vi/eHp3MbsCbMg/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "i6avfCqKcQo",
+    "title": "Interestelar",
+    "url": "https://www.youtube.com/watch?v=i6avfCqKcQo",
+    "cover": "https://img.youtube.com/vi/i6avfCqKcQo/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "Lk4K4eBlkfU",
+    "title": "Cidade perdida",
+    "url": "https://www.youtube.com/watch?v=Lk4K4eBlkfU",
+    "cover": "https://img.youtube.com/vi/Lk4K4eBlkfU/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "yO8DP21B9-U",
+    "title": "Jurassic Park ",
+    "url": "https://www.youtube.com/watch?v=yO8DP21B9-U",
+    "cover": "https://img.youtube.com/vi/yO8DP21B9-U/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "x5pZI-DmtrE",
+    "title": "Avatar",
+    "url": "https://www.youtube.com/watch?v=x5pZI-DmtrE",
+    "cover": "https://img.youtube.com/vi/x5pZI-DmtrE/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "94ceNwopotk",
+    "title": "Missão: Impossível",
+    "url": "https://www.youtube.com/watch?v=94ceNwopotk",
+    "cover": "https://img.youtube.com/vi/94ceNwopotk/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "ql4epTOWdNg",
+    "title": "Maze Runner - Correr ou Morrer",
+    "url": "https://www.youtube.com/watch?v=ql4epTOWdNg",
+    "cover": "https://img.youtube.com/vi/ql4epTOWdNg/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "9cjSePIf1l0",
+    "title": "A sociedade da neve",
+    "url": "https://www.youtube.com/watch?v=9cjSePIf1l0",
+    "cover": "https://img.youtube.com/vi/9cjSePIf1l0/maxresdefault.jpg",
+    "category": "Aventura"
+  },
+  {
+    "id": "R_VX0e0PX90",
+    "title": "A origem",
+    "url": "https://www.youtube.com/watch?v=R_VX0e0PX90",
+    "cover": "https://img.youtube.com/vi/R_VX0e0PX90/maxresdefault.jpg",
+    "category": "Aventura"
+  }
   
-  ]
+]
